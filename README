@@ -1,0 +1,3 @@
+Program to solve Sudoku boards.
+
+Reads in a Sudoku puzzle (like the ones provided) and solves it recursively.
