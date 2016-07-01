@@ -1,3 +1,4 @@
-Program to solve Sudoku boards.
+Program to solve Sudoku boards, written for my Engineering Algorithms class.
 
 Reads in a Sudoku puzzle (like the ones provided) and solves it recursively.
+Algorithm to solve the puzzle is my own, but much of the set up (d_matrix files, initialization of board) was written by my professor.
